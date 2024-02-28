@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/SearchMyCEP/static/css/main.422cccea.css",
+    "main.js": "/SearchMyCEP/static/js/main.700f5b66.js",
+    "index.html": "/SearchMyCEP/index.html",
+    "main.422cccea.css.map": "/SearchMyCEP/static/css/main.422cccea.css.map",
+    "main.700f5b66.js.map": "/SearchMyCEP/static/js/main.700f5b66.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.422cccea.css",
+    "static/js/main.700f5b66.js"
+  ]
+}
